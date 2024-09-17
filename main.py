@@ -129,3 +129,4 @@ frame = tk.Frame(root)
 frame.grid(row=1, column=0, columnspan=3, padx=20, pady=10)
 
 root.mainloop()
+# 83 บรรทัด
